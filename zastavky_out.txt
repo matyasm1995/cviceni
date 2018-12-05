@@ -1,0 +1,3237 @@
+Schengenská
+Schengenská
+Letiště
+Bryksova
+Bohdalecká
+Bohdalecká
+Nemocnice Na Homolce
+Nemocnice Na Homolce
+V Lískách
+Štěpnice
+Sídlištní
+Sídlištní
+Dolní Měcholupy
+Dolní Měcholupy
+Na Šafránce
+Na Šafránce
+Polesná
+Sídliště Čakovice
+Sídliště Čakovice
+Sovenická
+Sovenická
+Kbelský hřbitov
+Kbelský hřbitov
+Ctěnice
+Ctěnice
+Rousínovská
+Rousínovská
+Nad Primaskou
+Zamašská
+Zamašská
+Velká Ohrada
+Velká Ohrada
+Záhorského
+V Remízku
+Grussova
+Grussova
+Breitcetlova
+Breitcetlova
+Bucharova
+Bucharova
+Pod Chodovem
+Pod Chodovem
+Městský archiv
+U Drahaně
+U Drahaně
+Bohnické údolí
+Bohnické údolí
+Stodůlky
+Stodůlky
+Stodůlky
+Stodůlky
+Zličín
+Zličín
+Zličín
+Zličín
+Starý Prosek
+Starý Prosek
+Nad Zlíchovem
+Nad Zlíchovem
+Prosluněná
+Hůrka
+Hůrka
+Hůrka
+Hůrka
+Hůrka
+Hůrka
+Žvahov
+Pod Žvahovem
+Písková
+Písková
+Obchodní náměstí
+Obchodní náměstí
+Obchodní náměstí
+Nymburská
+Nymburská
+U Průhonu
+U Průhonu
+Zahradníčkova
+Červeňanského
+Červeňanského
+Štěpařská
+Štěpařská
+Záhorského
+Za Pavilonem
+Za Pavilonem
+Petýrkova
+Petýrkova
+Petýrkova
+Jedličkův ústav
+Valtická
+Valtická
+Bártlova
+Bártlova
+Čertousy
+Čertousy
+Čertousy
+Starý Prosek
+Starý Prosek
+V Rybníčkách
+V Sudech
+V Sudech
+V Uličce
+V Zápolí
+V Zápolí
+V Zápolí
+V Zátiší
+V Zátiší
+Vackov
+Vackov
+Václavka
+Václavka
+Brodecká
+U Prioru
+U Prioru
+Ruzyňský velkoobchod
+Ruzyňský velkoobchod
+U Vodojemu
+U Zvoničky
+U Zvoničky
+U Zvonu
+U Zvonu
+Řepínská
+Řepínská
+Ústřední dílny DP
+Ústřední dílny DP
+Ústřední dílny DP
+Ústřední dílny DP
+Českolipská
+Českolipská
+Plánická
+Otěšínská
+Starolázeňská
+Starolázeňská
+Solná
+V Násypu
+Univerzitní
+Nad Košíkem
+Nad Košíkem
+V Chotejně
+V Korytech
+V Korytech
+Březiněves
+Březiněves
+Limuzská
+Limuzská
+Venušina
+Venušina
+V Rybníčkách
+Vozovna Kobylisy
+Vozovna Motol
+Vozovna Motol
+Vozovna Pankrác
+Vozovna Pankrác
+Vozovna Pankrác
+Vozovna Střešovice
+Vozovna Střešovice
+Uhříněves
+Uhříněves
+Uhříněves
+Újezd
+Újezd
+Újezd
+Újezd nad Lesy
+Újezd nad Lesy
+Újezd nad Lesy
+Újezd nad Lesy
+Újezd nad Lesy
+Újezd nad Lesy
+Ukrajinská
+Ukrajinská
+Elišky Přemyslovny
+Urbanova
+Urbanova
+Urxova
+Urxova
+Správa sociálního zabezpečení
+Správa sociálního zabezpečení
+Rajská zahrada
+Rajská zahrada
+Rajská zahrada
+Rajská zahrada
+Rajská zahrada
+Ústav mateřství
+Ústav mateřství
+Drobná
+Drobná
+Náměstí Winstona Churchilla
+Náměstí Winstona Churchilla
+U Háje
+U Háje
+Zličín
+Zličín
+Zličín
+Zličín
+Zličín
+Veletržní palác
+Poliklinika Petrovice
+Poliklinika Petrovice
+Bazovského
+Bazovského
+Větrník
+Větrník
+Větrník
+Větrník
+Vysokovská
+Vidoule
+Vidoule
+Vidoule
+Vidoule
+Vozovna Strašnice
+Univerzitní
+Rtyňská
+Rtyňská
+Stará obec
+Škola Dolní Počernice
+Škola Dolní Počernice
+U Počernického rybníka
+U Počernického rybníka
+Bezděkovská
+Bezděkovská
+Nádraží Ruzyně
+Nádraží Ruzyně
+Nádraží Ruzyně
+Nádraží Ruzyně
+Brodecká
+Vojenská nemocnice
+Vojenská nemocnice
+Vojická
+Vojická
+Vosmíkových
+Vosmíkových
+Divadlo Horní Počernice
+Divadlo Horní Počernice
+U Dobešky
+U Dobešky
+Vozovna Kobylisy
+Vozovna Kobylisy
+Vozovna Kobylisy
+Vozovna Kobylisy
+Vozovna Kobylisy
+Vozovna Kobylisy
+Vozovna Střešovice
+Vozovna Střešovice
+Vozovna Střešovice
+Vozovna Vokovice
+Vozovna Vokovice
+Výhledy
+Vychovatelna
+Vychovatelna
+Cholupice
+Cholupice
+Hrazanská
+Hrazanská
+Dreyerova
+Dreyerova
+Vozovna Strašnice
+Vozovna Strašnice
+Vinice
+Vinohradské hřbitovy
+Vinohradské hřbitovy
+Vinohradská tržnice
+Vinohradská tržnice
+Vinohradská vodárna
+Vinohradská vodárna
+Vinoř
+Vinoř
+Psohlavců
+Psohlavců
+Karlínské náměstí
+Karlínské náměstí
+Karlínské náměstí
+Vlašimská
+Vlašimská
+Vlnitá
+Vlnitá
+Čechtická
+Čechtická
+Vojenská nemocnice
+Vozovna Žižkov
+Vozovna Žižkov
+Kolovraty
+Kolovraty
+Ve Studeném
+Ve Studeném
+Ve Výrech
+Ve Výrech
+Veletržní palác
+Vajgarská
+Vajgarská
+Litovický potok
+Litovický potok
+Úřad Řepy
+Albertov
+Albertov
+Albertov
+Výtoň
+Výtoň
+Výtoň
+Jílovská
+Jílovská
+VÚ Běchovice
+Vychovatelna
+Lipovická
+Lipovická
+Vypich
+Vypich
+Vypich
+Vypich
+Kukulova
+Vypich
+Vypich
+Poštovská
+Poštovská
+Zemědělská univerzita
+Zemědělská univerzita
+Zemědělská univerzita
+Píškova
+Píškova
+Píškova
+Černý Most
+Černý Most
+Černý Most
+Černý Most
+Černý Most
+Černý Most
+Černý Most
+Černý Most
+Za Čimickým hájem
+Za Čimickým hájem
+Avia Letňany
+Avia Letňany
+K Netlukám
+K Netlukám
+Obchodní centrum Černý Most
+Obchodní centrum Černý Most
+Úřad Řepy
+Starý Zličín
+Starý Zličín
+K Hájům
+Vychovatelna
+Vychovatelna
+Pošta Újezd nad Lesy
+Pošta Újezd nad Lesy
+Za Chalupami
+Záběhlice
+Záběhlice
+Záběhlická škola
+Záběhlická škola
+Zadní Kopanina
+Zadní Kopanina
+Zahradní Město
+Zahradní Město
+Zahradní Město
+Centrum Zahradní Město
+Centrum Zahradní Město
+VÚ Běchovice
+Vinopalnická
+Vinopalnická
+Na Šabatce
+Na Šabatce
+Xaverov
+Xaverov
+Xaverov
+Za Horou
+Za Horou
+Za Horou
+Za Chalupami
+K Hájům
+Raichlova
+Raichlova
+Průhonský háj
+Průhonský háj
+Choceradská
+Donatellova
+Donatellova
+Sídliště Na Groši
+Sídliště Na Groši
+Lipence
+Lipence
+U Průseku
+U Průseku
+Hloubětínská
+Hloubětínská
+Hloubětínská
+Bašteckého
+Bašteckého
+Centrum Zahradní Město
+Zahradnictví
+Zahradnictví
+Zahrádky
+Zahrádky
+Zálesí
+Zborov - Strašnické divadlo
+Zborov - Strašnické divadlo
+Zborovská
+Zborovská
+Zbraslavské náměstí
+Zbraslavské náměstí
+Zbraslavské náměstí
+Zbraslavské náměstí
+Zbyslavská
+Zbyslavská
+Michnovka
+Michnovka
+Škola Nebušice
+Škola Nebušice
+Zelená
+Zelená
+Zelená
+Zálesí
+Zálesí
+Zálesí
+Zálesí
+Zálesí
+U Studánky
+U Studánky
+Zatáčka
+Zatáčka
+Barrandovská
+Závist
+Závist
+Černý Most
+Černý Most
+Černý Most
+Černý Most
+Černý Most
+Ametystová
+Dřevařská
+Dřevařská
+Ježovická
+Ježovická
+Práčská
+Práčská
+U Tabulky
+U Tabulky
+Stavební zóna Horní Počernice
+K Říčanům
+K Říčanům
+Obchodní centrum Šestka
+Obchodní centrum Šestka
+Butovická
+Butovická
+Pod Lochkovem
+Pod Lochkovem
+Obchodní centrum Sárská
+Zelená
+Zelená liška
+Zelená liška
+IKEM
+IKEM
+Zelené domky
+Zelené domky
+Zelený pruh
+Zelený pruh
+Zemanka
+Zemanka
+Zhořelecká
+Zhořelecká
+Zhořelecká
+Zhořelecká
+Halenkovská
+Halenkovská
+Halenkovská
+Halenkovská
+Zlíchov
+Zlíchov
+Zlíchov
+Zmrzlík
+Zmrzlík
+Ke Kateřinkám
+Ke Kateřinkám
+Ke Kateřinkám
+Ke Kateřinkám
+Žabovřesky
+Žabovřesky
+Žákovská
+Žákovská
+Želivského
+Želivského
+Želivského
+Želivského
+Nové Pitkovice
+Nové Pitkovice
+Želivecká
+Želivecká
+Želivského
+Želivského
+Želivského
+Želivského
+Želivského
+Želivského
+Ženské domovy
+Žežulka
+Žežulka
+Na Pazderce
+Na Pazderce
+Dunajecká
+Dunajecká
+Nad Běchovicemi
+Nad Běchovicemi
+Družná
+Družná
+Tylova čtvrť
+Tylova čtvrť
+Poliklinika Modřany
+Poliklinika Modřany
+Poliklinika Modřany
+Poliklinika Modřany
+Poliklinika Modřany
+Kobrova
+Kobrova
+U Mlejna
+U Mlejna
+Přímské náměstí
+Přímské náměstí
+Na Bojišti
+Náměstí Jiřího Berana
+Náměstí Jiřího Berana
+Želivského
+Nad Rybníky
+Višňová
+Višňová
+Dolnokrčská
+Dolnokrčská
+Nad Rybníky
+Modřanská rokle
+U Libušského potoka
+U Libušského potoka
+U Libušského potoka
+U Libušského potoka
+Sídliště Čimice
+Sídliště Čimice
+Sídliště Čimice
+Antala Staška
+Antala Staška
+Skalka
+Skalka
+Skalka
+Skalka
+Skalka
+Skalka
+Skalka
+Skalka
+Do Čertous
+Sezemická
+Rosečská
+Rosečská
+Na Havránce
+Na Havránce
+Kafkova
+Lomy
+Lomy
+Sídliště Červený Vrch
+Sídliště Červený Vrch
+Za Farou
+Za Farou
+Levského
+Levského
+Levského
+Levského
+Sídliště Modřany
+Sídliště Modřany
+Sídliště Modřany
+Sídliště Modřany
+Modřanská rokle
+Modřanská rokle
+Modřanská rokle
+Újezd  LD
+Újezd  LD
+Nebozízek LD
+Nebozízek LD
+Petřín LD
+Petřín LD
+Nádraží Kbely
+Wattova
+U Nemocnice
+U Nemocnice
+Ke Koulce
+Blažimská
+Chýnovská
+Knovízská
+Otakara Vrby
+Hasičská
+Bachova
+Radlická
+Kateřinská
+Větrov
+Větrov
+Brodského
+Brodského
+Pražská čtvrť
+Pražská čtvrť
+Skládka Ďáblice
+Skládka Ďáblice
+Skalka
+Dětská nemocnice Karlov
+Apolinářská
+Apolinářská
+Radlická
+Radlická
+Radlická
+Radlická
+Radlická
+Sídliště Skalka
+Sídliště Skalka
+Františka Veselého
+Paceřická
+Šafránkova
+Šafránkova
+Šafránkova
+Šafránkova
+Sídliště Petrovice
+Sídliště Petrovice
+Sídliště Petrovice
+Sídliště Petrovice
+Nušlova
+Nušlova
+Jarníkova
+Jarníkova
+Žárská
+Žárská
+Vrbova
+U Kunratického lesa
+U Kunratického lesa
+Na Vartě
+Na Vartě
+Barvy a laky
+Barvy a laky
+Radotínská
+Radotínská
+Veronské náměstí
+Lýskova
+Lýskova
+Nemocnice Bubeneč
+Nemocnice Bubeneč
+Koleje Strahov
+Koleje Strahov
+Volha
+Podnikatelská
+Podnikatelská
+Kodymova
+Vlastibořská
+Bachova
+Lazarská
+Lazarská
+Lazarská
+Pod Říhákem
+Mototechna
+Mototechna
+Letňany
+Letňany
+Letňany
+Letňany
+Letňany
+Letňany
+Letňany
+Letňany
+Letňany
+Letňany
+Letňany
+Letňany
+Letňany
+K Horoměřicům
+Kabešova
+Kabešova
+Vyskočilova
+Vyskočilova
+Za Skalkou
+Za Skalkou
+Na Formance
+Na Formance
+U Mezníku
+U Mezníku
+Na Křečku
+Na Křečku
+Lahovská
+K Austisu
+Diskařská
+Diskařská
+Mariánské náměstí
+Rájecká
+Rájecká
+Černická
+Terezínská
+Svatoňovická
+Svatoňovická
+U Bílého mlýnku
+U Bílého mlýnku
+K Letňanům
+K Letňanům
+Poliklinika Frýdecká
+Poliklinika Frýdecká
+Šumperská
+Šumperská
+Třinecká
+Třinecká
+Příborská
+Příborská
+K Drsnici
+K Horoměřicům
+K Chatám
+Spiritka
+Spiritka
+Čertův vršek
+Čertův vršek
+Břevnovský klášter
+Břevnovský klášter
+Na Cikorce
+Xaverovský háj
+Xaverovský háj
+Lazarská
+Volyňská
+Volyňská
+Hornocholupická
+Mirovická
+Mirovická
+Morseova
+Morseova
+Janovská
+Janovská
+Obchodní centrum Štěrboholy
+Obchodní centrum Štěrboholy
+Na Knížecí
+Winklerova
+Winklerova
+Na Knížecí
+Na Knížecí
+Na Knížecí
+Anděl
+Anděl
+Anděl
+Na Knížecí
+Na Knížecí
+Na Knížecí
+Návětrná
+Sklenářka
+Sklenářka
+U Trezorky
+Malešický park
+Malešický park
+Nerudova
+Šporkova
+Nemocnice pod Petřínem
+Za Novákovou zahradou
+Za Novákovou zahradou
+Na Knížecí
+Anděl
+Anděl
+Kotevní
+Poliklinika Čumpelíkova
+Poliklinika Čumpelíkova
+Kobyliská střelnice
+Kobyliská střelnice
+Domov seniorů Ďáblice
+Domov seniorů Ďáblice
+Ve Žlíbku
+Ve Žlíbku
+Ve Žlíbku
+Ve Žlíbku
+Vrážská
+Vrážská
+Přístav Radotín
+Přístav Radotín
+Braunova
+Polešovická
+Pilovská
+Pilovská
+Netušilská
+Nemocnice Vinohrady
+Ocelářská
+Polešovická
+Mílová
+Ocelářská
+Michelangelova
+Michelangelova
+Nad Markétou
+Nad Markétou
+Jateční
+U Kundratky
+U Kundratky
+Oderská
+Oderská
+Nádraží Řeporyje
+Podlužanská
+Podlužanská
+Nepasické náměstí
+Poliklinika Lípa
+Poliklinika Lípa
+Za Mototechnou
+Za Mototechnou
+Ordovická
+Ordovická
+Filadelfie
+Nad Dvorem
+Nad Dvorem
+Čechova čtvrť
+Čechova čtvrť
+Čechova čtvrť
+Čechova čtvrť
+Luka
+Luka
+Luka
+U Radiály
+Luka
+Luka
+Luka
+Luka
+Klášterecká
+Klášterecká
+Jirčanská
+Jirčanská
+Hornocholupická
+Obchodní centrum Zličín
+Obchodní centrum Zličín
+Nemocnice Vinohrady
+Petrské náměstí
+Petrské náměstí
+Haštalské náměstí
+U Staré školy
+Pařížská
+Staroměstské náměstí
+Masná
+Ohradní
+K Zelenči
+Braunova
+Vlastina
+Vlastina
+Na Mlýnici
+Na Mlýnici
+Volha
+Volha
+Volha
+V Mokřinách
+V Mokřinách
+Na Slovance
+Na Slovance
+Svépravice
+Svépravice
+Okořská
+Sídliště Rohožník
+Sídliště Rohožník
+Živcová
+Rektorská
+Rektorská
+Sídliště Barrandov
+Sídliště Barrandov
+U Trezorky
+U Trezorky
+Nádraží Čakovice
+Nádraží Čakovice
+Ve Smečkách
+Matějská
+Matějská
+Poliklinika Barrandov
+Lukavecká
+Lukavecká
+Dědinova
+Dědinova
+V Nových domcích
+Za Tratí
+Za Tratí
+Platónova
+Platónova
+Petržílova
+Petržílova
+Poliklinika Háje
+Poliklinika Háje
+Kazínská
+Českobrodská
+Zátišská
+Zátišská
+Za Nadjezdem
+Za Nadjezdem
+U Kestřánků
+Amforová
+Amforová
+Poliklinika Barrandov
+Poliklinika Barrandov
+Mariánské náměstí
+Truhlářská
+Hradební
+Hradební
+Kundratka
+Kundratka
+Kundratka
+Sicherova
+Sicherova
+Za Kapličkou
+Netřebická
+Vojetická
+Zdická
+Poliklinika Barrandov
+Pramenná
+Pramenná
+Sídliště Baba
+Radnice Praha 6
+Radnice Praha 6
+Studentský dům
+Studentský dům
+Národní technická knihovna
+Národní technická knihovna
+Kolová
+Viničky
+Příbramská
+Dehtínská
+Pavelkova
+Pavelkova
+Pod Vsí
+Pod Vsí
+Na Drahách
+Na Drahách
+Anděl
+Anděl
+Anděl
+Anděl
+Novochuchelská
+Novochuchelská
+Mrkosova
+Mrkosova
+Na Hvězdárně
+Na Hvězdárně
+Novoborská
+Sovákova
+Sovákova
+Sovákova
+Nádraží Horní Měcholupy
+Nádraží Horní Měcholupy
+Nádraží Horní Měcholupy
+Nádraží Horní Měcholupy
+Záveská
+Generála Janouška
+Generála Janouška
+Depo Hostivař
+Depo Hostivař
+Depo Hostivař
+Depo Hostivař
+Depo Hostivař
+Depo Hostivař
+Depo Hostivař
+Depo Hostivař
+Depo Hostivař
+Depo Hostivař
+Depo Hostivař
+Depo Hostivař
+Depo Hostivař
+Václavské náměstí
+Václavské náměstí
+Můstek - A
+Můstek - A
+Můstek - B
+Můstek - B
+Malá Ohrada
+Malá Ohrada
+Malá Ohrada
+Krejcárek
+Sedlecký přívoz
+Sedlecký přívoz
+Sedlec
+U Belárie
+U Belárie
+Na Jelenách
+Na Jelenách
+Madlina
+Krejcárek
+Krejcárek
+Madlina
+Záveská
+Dvorní
+Dělostřelecká
+Dělostřelecká
+Sídliště Uhříněves
+Sídliště Uhříněves
+Škola Velká Chuchle
+Nad Rybníkem
+Krejcárek
+Za Slánskou silnicí
+Mokřanská
+Mokřanská
+Slovinská
+Slovinská
+Plošná
+Plošná
+Lnářská
+Lnářská
+Perspektivní
+Perspektivní
+Logistická zóna Horní Počernice
+Na Radosti
+Korytná
+Korytná
+Jenerálka
+Jenerálka
+Jeřická
+Jeřická
+Na Smetance
+Na Srpečku
+Hanspaulka
+Hanspaulka
+Nádraží Libeň
+Nádraží Libeň
+Nádraží Libeň
+Jezerka
+Jezerka
+Bakovská
+Bakovská
+Poliklinika Černý Most
+Kapitána Stránského
+Kapitána Stránského
+Ve Vilkách
+Ve Vilkách
+Lázeňka
+Lázeňka
+Doležalova
+Doležalova
+Římská
+Římská
+Za Slánskou silnicí
+Čechovo náměstí
+Čechovo náměstí
+Čechovo náměstí
+Čechův most
+Čechův most
+Černínova
+Černínova
+Černokostelecká
+Černokostelecká
+Černokostelecká
+Černokostelecká
+Černokostelecká
+Černokostelecká
+Černý kůň
+Černý kůň
+Černý kůň
+Vinořská
+Vinořská
+Nádraží Libeň
+Náměstí Republiky
+Masarykovo nádraží
+Masarykovo nádraží
+Náměstí Republiky
+Náměstí Republiky
+Náměstí Republiky
+Praha Masarykovo nádr.
+Praha Masarykovo nádr.
+Švandovo divadlo
+Švandovo divadlo
+Švandovo divadlo
+Jalodvorská
+Jalodvorská
+Přeštická
+Na Vaňhově
+Na Vaňhově
+Na Veselí
+Na Veselí
+Na Veselí
+Na Veselí
+Na Viničkách
+Na Vrchách
+Na Vrchách
+Na Vrchách
+Na Vrchách
+Na Vrstevnici
+Na Vrstevnici
+Slavínského
+Ládví
+Ládví
+Ládví
+Depo Kačerov
+Přeštická
+Jankovcova
+Jankovcova
+Na Kovárně
+Na Kovárně
+Průchova
+Průchova
+Bořislavka
+Bořislavka
+Bořislavka
+Boletická
+Boletická
+Břetislavka
+Břetislavka
+Arbesovo náměstí
+Arbesovo náměstí
+Arbesovo náměstí
+Hejtmanská
+Hejtmanská
+Hellichova
+Hellichova
+Hercovka
+Hercovka
+Hládkov
+Hládkov
+Hládkov
+Hládkov
+Hlavní
+Hlavní
+Hlavní
+Palackého náměstí
+Palackého náměstí (nábřeží)
+Palackého náměstí (nábřeží)
+Karlovo náměstí
+Nedvězí
+Nemocnice Krč
+Nemocnice Krč
+Nemocnice Krč
+Nemocnice Krč
+Livornská
+Livornská
+Biskupcova
+Nádraží Hostivař
+Nádraží Hostivař
+Nádraží Hostivař
+Hříbková
+Hulická
+Hulická
+Hulická
+Letecké muzeum
+Letecké muzeum
+Husinecká
+Husinecká
+Kamýcká
+Národní divadlo
+Vodičkova
+Vodičkova
+Nebušice
+Nebušice
+K Noskovně
+K Noskovně
+Nedvězí
+Jindřišská
+Jindřišská
+Dlážděná
+Stará Stodůlecká
+Stará Stodůlecká
+Jinonická
+Jiráskova čtvrť
+Jiráskova čtvrť
+Kyjský hřbitov
+Depo Kačerov
+Dědina
+Dědina
+Dělnická
+Dělnická
+Tusarova
+Bílenecké náměstí
+Divadlo Na Fidlovačce
+Nádraží Hostivař
+Nádraží Hostivař
+Nádraží Hostivař
+Nádraží Hostivař
+Nádraží Hostivař
+Nádraží Hostivař
+Nádraží Klánovice
+Nádraží Klánovice
+Nádraží Klánovice-sever
+Nádraží Klánovice-sever
+Nádraží Klánovice
+Nádraží Klánovice
+Toulcův dvůr
+Ďáblický hřbitov
+Ďáblický hřbitov
+Kamýcká
+Kamýcká
+Švandovo divadlo
+Náměstí Bratří Synků
+Náměstí Bratří Synků
+Otakarova
+Otakarova
+Národní divadlo
+Národní divadlo
+Národní divadlo
+Divadlo Na Fidlovačce
+Dívčí hrady
+Divoká Šárka
+Divoká Šárka
+Divoká Šárka
+Divoká Šárka
+Divoká Šárka
+Divoká Šárka
+Hřebenka
+Hřebenka
+Hříbková
+Dolní Počernice
+Dolní Počernice
+Doliny
+Doliny
+Donovalská
+Donovalská
+Vltavská
+Vltavská
+Bubenská
+Vltavská
+Vltavská
+Praha-Bubny Vltavská
+Praha-Bubny Vltavská
+Dostihová
+Arbesovo náměstí
+Nové Vokovice
+Nové Vokovice
+Dolnokřeslická
+Dolnokřeslická
+ČSAD Smíchov
+ČSAD Smíchov
+Bohemians
+Bohemians
+Observatoř Libuš
+Observatoř Libuš
+Českomoravská
+Českomoravská
+Nemocnice Krč
+Nemocnice Krč
+Nemocnice Krč
+Kudrnova
+Kudrnova
+Netluky
+Netluky
+Newtonova
+Balabenka
+Balabenka
+Balkán
+Dolnočernošická
+Dolnočernošická
+Ke Kříži
+Ke Kříži
+Ke Stírce
+Kelerka
+Kelerka
+Kesnerka
+Khodlova
+Klamovka
+Klamovka
+Klamovka
+Klamovka
+Klamovka
+Klamovka
+Klánova
+Klánova
+Klánovice
+Českomoravská
+Českomoravská
+Českomoravská
+Českomoravská
+Odra
+Odra
+Ohrada
+Kyjský hřbitov
+Baba I
+Baba I
+Baba II
+Baba II
+Násirovo náměstí
+Násirovo náměstí
+Balabenka
+Balabenka
+Balabenka
+Klánovice
+Petřiny
+Petřiny
+Petřiny
+Kamýcká
+Karenova
+Slánská
+Slánská
+Slánská
+Slánská
+Karlovo náměstí
+Karlovo náměstí
+Karlovo náměstí
+Laurová
+Smíchovské nádraží
+Smíchovské nádraží
+Smíchovské nádraží
+Smíchovské nádraží
+Smíchovské nádraží
+Smíchovské nádraží
+Nádraží Krč
+Nádraží Krč
+Praha-Krč
+Praha-Krč
+Högerova
+Högerova
+Moráň
+Palackého náměstí
+Opatov
+Opatov
+Opatov
+Opatov
+Opatov
+Opatov
+Škola Dubeč
+Škola Dubeč
+Dubeček
+Dubeček
+K Barrandovu
+K Barrandovu
+Chaplinovo náměstí
+Dostihová
+Drinopol
+Drinopol
+Jiviny
+Jiviny
+Jiviny
+Druhanická
+Opatov
+Lešanská
+Lešanská
+Letecké opravny
+Letecké opravny
+Na Parcelách
+Na Pastvinách
+Na Plácku
+Klíčovská
+Klikovka
+Klikovka
+Korunovační
+Kloboučnická
+Kloboučnická
+Kloboučnická
+Kloboučnická
+Kloboučnická
+Klukovice
+Klukovice
+Ohrada
+Ohrada
+Ohrada
+Ohrada
+Ohrada
+Na Plácku
+Jemnická
+Jemnická
+Betáň
+Betáň
+Klárův ústav
+Klárův ústav
+Lužiny
+Lužiny
+Klíčov
+Klíčov
+Klíčovská
+Na Staré cestě
+Na Staré cestě
+Habrová
+Habrová
+Hadovitá
+Suchdol
+Suchdol
+Suchdol
+Okrouhlická
+Bečovská
+Bečovská
+Dubečský hřbitov
+Dubečský hřbitov
+Smíchovské nádraží
+Smíchovské nádraží
+Smíchovské nádraží
+Hadovitá
+Hadovka
+Hadovka
+Hájek
+Hájek
+Hájová
+Hájová
+Vinořský zámek
+Troja
+I. P. Pavlova
+I. P. Pavlova
+I. P. Pavlova
+I. P. Pavlova
+I. P. Pavlova
+I. P. Pavlova
+I. P. Pavlova
+Špitálská
+Špitálská
+Vozovna Hloubětín
+Vozovna Hloubětín
+Pánkova
+Pánkova
+Milevská
+Poliklinika Černý Most
+Důstojnické domy
+Nádraží Strašnice
+Nádraží Strašnice
+Nádraží Strašnice
+Nádraží Strašnice
+Čakovice
+Čakovická
+Čakovická
+Čechova škola
+Čechova škola
+I. P. Pavlova
+I. P. Pavlova
+Italská
+Italská
+Poliklinika Zahradní Město
+Poliklinika Zahradní Město
+Jahodnice
+Jahodnice
+Chaplinovo náměstí
+Chaplinovo náměstí
+Chaplinovo náměstí
+Chaplinovo náměstí
+Chaplinovo náměstí
+Nádraží Kyje
+Nádraží Kyje
+Důstojnické domy
+Dvorce
+Dvorce
+Dvorce
+Dvorce
+Dvorce
+Dvorce
+Výhledské náměstí
+Výhledské náměstí
+Dyrinka
+Dyrinka
+Na Srpečku
+Na Strži
+Na Strži
+Na Strži
+Na Strži
+Na Štamberku
+Na Štamberku
+Pekárenská
+Chodovská tvrz
+Chodovská tvrz
+Na Santince
+Na Santince
+Na Sklonku
+Na Sklonku
+Na Smetance
+Brumlovka
+Brumlovka
+Kněžská luka
+Kněžská luka
+Služská
+Služská
+Kodaňská
+Koh-i-noor
+Koh-i-noor
+Koh-i-noor
+Koh-i-noor
+Hloubětín
+Hloubětín
+Hloubětín
+Hloubětín
+Hloubětín
+Hloubětín
+Hloubětín
+Hlávkova
+Hrdlořezská
+Hrdlořezská
+Na Lukách
+Na Lukách
+Mezitraťová
+Čakovice
+Lehovec
+Lehovec
+Lehovec
+Lehovec
+Červený Vrch
+Červený Vrch
+Čimice
+Čimice
+Kolbenova
+Kolbenova
+Nemocnice Bulovka - onkologie
+Hlávkova
+Náměstí Před Bateriemi
+Náměstí Před Bateriemi
+Kamenická
+Kamenolom Zbraslav
+Kamenolom Zbraslav
+Lehovec
+Lehovec
+Biskupcova
+Biskupcova
+Biskupcova
+Blatnická
+Blatnická
+Blatov
+Kolbenova
+Blatov
+Bohdalec
+Bohdalec
+Staré Bohnice
+Staré Bohnice
+Staré Bohnice
+Bojasova
+Bojasova
+Na Pískách
+Na Tykačce
+Na Tykačce
+Ostrov Štvanice
+Rohanský ostrov
+Císařský ostrov
+Kolbenova
+Modřanská škola
+Modřanská škola
+Modřanská škola
+Modřanská škola
+Ládví
+Ládví
+Ládví
+Ládví
+Ládví
+Kutnohorská
+Kutnohorská
+Kvasinská
+Kvasinská
+Kvasinská
+Kvasinská
+Květnová
+Talichova
+Talichova
+U Vojenské nemocnice
+U Vojenské nemocnice
+Poliklinika Petřiny
+Poliklinika Petřiny
+Na Pískách
+Botanická zahrada
+Botanická zahrada
+Kyje
+Kyselova
+Kyselova
+Lahovice
+Lahovice
+Lahovický most
+Lahovičky
+Lahovičky
+Sídliště Jahodnice
+Sídliště Jahodnice
+Laurová
+Laurová
+Holoubkovská
+Holoubkovská
+Brechtova
+Brechtova
+Břevnovská
+Kunratice
+U Rozcestí
+U Rozcestí
+Nádraží Radotín
+Nádraží Radotín
+Nádraží Radotín
+Nádraží Radotín
+Nádraží Radotín
+Nádraží Satalice
+Květnová
+Kyje
+Milíčov
+Sendražická
+Všestarská
+Všestarská
+Nádraží Klánovice-sever
+Budějovická
+Budějovická
+Sportareál Satalice
+Sportareál Satalice
+Chodov
+Chodov
+Chodov
+Chodov
+Chodov
+Chodov
+Budovec
+Budovec
+Bulovka
+Bulovka
+Bulovka
+Bulovka
+Bulovka
+Nádraží Běchovice střed
+Nádraží Běchovice střed
+Nádraží Satalice
+Nádraží Satalice
+Smíchovské nádraží
+Smíchovské nádraží
+Smíchovské nádraží
+Smíchovské nádraží
+Šimůnkova
+Kuliška
+Kuliška
+Cementárna Radotín
+Cementárna Radotín
+Cibulka
+Cibulka
+Náplavka Smíchov
+Císařská louka
+Nemocnice Bulovka
+Nemocnice Bulovka - gynekologie
+Cikánka
+Cikánka
+Cílkova
+Cílkova
+Rápošovská
+Rápošovská
+Bulovka
+Bulovka
+Šimůnkova
+Šimůnkova
+Kablo
+Kačerov
+Kačerov
+Kačerov
+Kačerov
+Kačerov
+Kačerov
+Kačerov
+Kačerov
+Kačerov
+Praha-Kačerov
+Praha-Kačerov
+Kajetánka
+Kajetánka
+Kalinův mlýn
+Slatiňanská
+Slatiňanská
+Novozámecká
+Novozámecká
+K Lesoparku
+K Lesoparku
+Krňovická
+Bukovinská
+Bukovinská
+Wagnerova
+Wagnerova
+Kalinův mlýn
+Kamenická
+Ciolkovského
+Ciolkovského
+Ciolkovského
+Cukrovar Modřany
+Cukrovar Modřany
+Cukrovar Čakovice
+Cukrovar Čakovice
+Čakovice
+Čakovice
+Darwinova
+Darwinova
+Šatovka
+Šatovka
+Šeberák
+Šeberák
+Šeberov
+Pankrác
+Pankrác
+Pankrác
+Pankrác
+Pankrác
+Pankrác
+Modrá škola
+Modrá škola
+Modrá škola
+Thákurova
+Thákurova
+Křižíkova
+Krematorium Motol
+Krematorium Motol
+Krematorium Motol
+U Waltrovky
+U Waltrovky
+Ke Hrázi
+Studenecká
+Sušická
+Sušická
+Pernerova
+Pernerova
+Malovanka
+Malovanka
+Malvazinky
+Malvazinky
+Malý Břevnov
+Malý Břevnov
+Malý Břevnov
+Malý Břevnov
+Maniny
+Maniny
+Marjánka
+Marjánka
+Průmstav
+Průmstav
+Obchodní centrum Čakovice
+Obchodní centrum Čakovice
+Na Blanici
+Na Groši
+Kokořínská
+Kokořínská
+Křižíkova
+Křižíkova
+Křižíkova
+Tolstého
+Tolstého
+Topolová
+Topolová
+Továrny Hostivař
+Továrny Hostivař
+Komořany
+Komořany
+Komořany
+Komořany
+Teplická
+Teplická
+Smiřická
+Selských baterií
+Selských baterií
+Nákladové nádraží Žižkov
+Slivenec
+Slivenec
+Letenské náměstí
+Letenské náměstí
+Rychnovská
+Rychnovská
+Rychnovská
+Rychnovská
+Staré Letňany
+Na Groši
+Na Groši
+Na Groši
+Na Homoli
+Na Homoli
+Na Homoli
+Na Homoli
+Výstaviště Letňany
+Výstaviště Letňany
+Na Hřebenech
+Na Hřebenech
+Libošovická
+Libošovická
+Třebešovská
+Třebešovská
+Na Košíku
+K Fialce
+K Fialce
+Sulická
+Vršovický hřbitov
+Vršovický hřbitov
+Svatoplukova
+Svatoplukova
+Tehovičky
+Tehovičky
+Ke Xaverovu
+Peluněk
+Peluněk
+Perlit
+Perlit
+Národní třída
+Národní třída
+Národní třída
+Smiřická
+Jinonice
+Jinonice
+Jinonice
+Jinonice
+Jinonice
+Jinonice
+Smržovská
+Smržovská
+Sobín
+Sobín
+Staré Letňany
+Toužimská
+Toužimská
+Lhotecký les
+Lhotecký les
+Lhotka
+Lhotka
+Libeňská
+Libeňská
+Libeňský most
+Malešická továrna
+Malešická továrna
+Malešická továrna
+Malešické náměstí
+Malešické náměstí
+Malešické náměstí
+Malostranská
+Malostranská
+Šedivého
+K Trninám
+K Trninám
+Sekeřická
+Přívozní
+Přívozní
+Národní třída
+Perunova
+Perunova
+Sídliště Petřiny
+Sídliště Petřiny
+Michelská
+U Labutě
+U Labutě
+Ústavy Akademie věd
+Ústavy Akademie věd
+U Jankovky
+U Jankovky
+Spalovna Malešice
+Spalovna Malešice
+Televizní věž
+Televizní věž
+Tempo
+Tempo
+Malostranská
+Malostranská
+Malostranská
+Malostranská
+Malostranská
+Malostranská
+Malostranské náměstí
+Malostranské náměstí
+Malostranské náměstí
+Prašný most
+Právnická fakulta
+U Waltrovky
+U Waltrovky
+V Sedlci
+V Sedlci
+Murmanská
+Murmanská
+Radonická
+V Přístavu
+Pavlíkova
+Pávovské náměstí
+Pávovské náměstí
+Pelc Tyrolka
+Libeňský most
+Střížkov
+Střížkov
+Střížkov
+Střížkov
+Střížkov
+Střížkov
+Líbeznická
+Líbeznická
+Libocká
+Libocká
+Libuš
+Libuš
+Nové náměstí
+Teplárna Malešice
+Teplárna Malešice
+Teplárna Michle
+Teplárna Michle
+Teplárna Třeboradice
+Terasy
+Koleje Jižní Město
+Koleje Jižní Město
+Na Planině
+U Školy
+U Školy
+U Továren
+U Továren
+U Tří svatých
+U Tří svatých
+U Tří svatých
+U Tří svatých
+U Václava
+Radonická
+Muzeum
+Muzeum
+Muzeum
+Muzeum - A
+Muzeum - A
+Muzeum - C
+Muzeum - C
+U Hangáru
+U Hangáru
+U Kapličky
+U Kapličky
+U Kaštanu
+U Kaštanu
+Šedivého
+Nové náměstí
+Nové náměstí
+Obchodní centrum Čakovice
+Sídliště Písnice
+Štefkova
+Štefkova
+Štěchovická
+Štěchovická
+Štěpánská
+Štěpánská
+Štěpánská
+Štěpničná
+Štěpničná
+Štěpničná
+Štěpničná
+Ústřední
+Ústřední
+Ústřední
+U Václava
+Nádraží Dolní Počernice
+Nádraží Dolní Počernice
+U Včely
+U Včely
+Řezáčovo náměstí
+Nemocnice Motol
+Nemocnice Motol
+Nemocnice Motol
+Novoštěrboholská
+Novoštěrboholská
+Rokycanova
+Rokycanova
+U Matěje
+U Matěje
+U Měchurky
+U Měchurky
+U Památníku
+U Památníku
+Ke Klíčovu
+Ke Klíčovu
+Čakovický zámek
+Čakovický zámek
+Dubeč
+Dubeč
+Dubeč
+Škola Štěrboholy
+U Vody
+U Vody
+Sídliště Petřiny
+Sídliště Petřiny
+Sídliště Petřiny
+Picassova
+Picassova
+Písečná
+Písečná
+Čimický háj
+Čimický háj
+Na Proutcích
+Na Proutcích
+Divadlo Gong
+Divadlo Gong
+Kunratice
+Pod Hájem
+Pod Hájem
+Botanická zahrada Troja
+Botanická zahrada Troja
+Botanická zahrada Troja
+Ruzyňský hřbitov
+Ruzyňský hřbitov
+Pod Jezerkou
+Pod Jezerkou
+Pod Karlovem
+Pod Karlovem
+Právnická fakulta
+Škola Štěrboholy
+Štěrboholy
+Štěrboholy
+U Spojů
+U Spojů
+Na Planině
+V Přístavu
+Přístav Holešovice
+Přístav Holešovice
+Osadní
+Osadní
+Jakobiho
+Lipanská
+Lipanská
+Lipany
+Lipany
+Škola Lipence
+Škola Lipence
+Lipnická
+Lipnická
+Lísek
+Lísek
+Terasy
+Prosecká
+Prosecká
+Nademlejnská
+Nademlejnská
+Thákurova
+Thákurova
+Radhošťská
+Pražská tržnice
+Pražská tržnice
+Obchodní centrum Hostivař
+Obchodní centrum Hostivař
+Obchodní centrum Hostivař
+Obchodní centrum Hostivař
+Pražského povstání
+Pražského povstání
+Pražského povstání
+Pražského povstání
+Pražského povstání
+Pražského povstání
+Pražského povstání
+Pražského povstání
+Pražského povstání
+Pražský hrad
+Nové náměstí
+Lihovar
+Lihovar
+Lihovar
+Lihovar
+Jakobiho
+Pod Konvářkou
+Pod Konvářkou
+Pod Královkou
+Pod Královkou
+Radhošťská
+Radošovická
+Radošovická
+Radošovická
+Radošovická
+U Staré pošty
+U Staré pošty
+Nemocnice Na Františku
+Nemocnice Na Františku
+Rohožnická
+Rohožnická
+Rohožnická
+Žabovřeská
+U Vodojemu
+Slivenecká
+Slivenecká
+Sídliště Lhotka
+Sídliště Libuš
+Prosek
+U Kříže
+U Kříže
+U Křížku
+U Křížku
+U Ladronky
+U Ladronky
+U Lesíka
+U Lesíka
+U Libušské sokolovny
+U Libušské sokolovny
+U Lípy
+U Lípy
+U Lípy
+U Lípy
+U Lomů
+U Lomů
+Sibeliova
+Pod Kyjovem
+Pod Kyjovem
+Pod Lipkami
+Pod Mezí
+Pod Mezí
+Hotel Golf
+Hotel Golf
+Pod Oborou
+Pod Oborou
+Pod Pekařkou
+Šumavská
+Šumavská
+Tachovské náměstí
+Obora Hvězda
+Kunratická škola
+Kunratická škola
+Sídliště Řepy
+Sídliště Řepy
+Sídliště Libuš
+Sídliště Malešice
+Sídliště Malešice
+Sídliště Malešice
+Sídliště Malešice
+Sídliště Malešice
+Sídliště Na Dědině
+Sídliště Na Dědině
+Sídliště Novodvorská
+Sídliště Novodvorská
+Sídliště Pankrác
+Sídliště Pankrác
+Sídliště Pankrác
+Norbertov
+Norbertov
+Starý Spořilov
+Závodiště Chuchle
+Závodiště Chuchle
+Strojírenská
+Strojírenská
+Tiskařská
+Tiskařská
+Ostrčilovo náměstí
+Otínská
+Otínská
+Dubečská
+Dubečská
+Polygrafická
+Polygrafická
+Olšanská
+Olšanská
+Sibeliova
+Sibeliova
+Sibeliova
+Sídliště Řepy
+Sídliště Řepy
+Sídliště Řepy
+Sídliště Řepy
+Sídliště Řepy
+Sídliště Řepy
+Přírodní
+Přírodní
+Přístaviště
+Přístaviště
+Sídliště Hloubětín
+Sídliště Hloubětín
+Sídliště Homolka
+Sídliště Homolka
+Gercenova
+Gercenova
+Kazín
+Dolní Černošice
+Ke Kazínu
+Ke Kazínu
+Litochlebské náměstí
+Litochlebské náměstí
+Ohradské náměstí
+Povltavská
+Kavčí hory
+Kavčí hory
+Kavčí hory
+Kavčí hory
+Prašná
+Pod Krocínkou
+Pod Krocínkou
+Prašný most
+Přeštínská
+Přeštínská
+Přeštínská
+Přeštínská
+Třeboradice
+Nové Petrovice
+Nové Petrovice
+Tupolevova
+U Jahodnice
+Pod Kesnerkou
+Zamenhofova
+Nárožní
+Nárožní
+Vackova
+Vackova
+Kovářova-KD Mlejn
+Kovářova-KD Mlejn
+Sídliště Stodůlky
+Sídliště Stodůlky
+Strašnická
+Strašnická
+Strašnická
+Invalidovna
+Invalidovna
+Invalidovna
+Invalidovna
+Invalidovna
+Invalidovna
+Sídliště Krč
+Sídliště Krč
+Sídliště Lehovec
+Sídliště Lehovec
+Sídliště Lhotka
+Sídliště Lhotka
+Sídliště Lhotka
+Litochlebské náměstí
+Litochlebské náměstí
+Katovická
+Katovická
+Lohenická
+Lohenická
+Lochkov
+Lochkov
+Pod Šmukýřkou
+Pod Šmukýřkou
+Pod Táborem
+Pod Táborem
+Pod Třebešínem
+Pod Třebešínem
+Pod Vinicí
+Pod Vinicí
+Pod Vyhlídkou
+Rokoska
+Tupolevova
+Tyršova čtvrť
+Tyršova čtvrť
+U Dálnice
+U Dálnice
+U Elektry
+U Elektry
+U Hangáru
+Řepčická
+Řeporyjské náměstí
+Řeporyjské náměstí
+Škola Řepy
+Škola Řepy
+Říčanova
+Říčanova
+Safírová
+Strašnická
+Strašnická
+Strašnická
+Strašnická
+Strážní
+Strážní
+Prosek
+Prosek
+Hněvkovského
+Hněvkovského
+Průběžná
+Průběžná
+Letňanská
+Letňanská
+Letňanská
+Zámky
+Zámky
+Zámky
+Pod Pekařkou
+Pod Rapidem
+Pod Rapidem
+Pod Ryšánkou
+Rokoska
+Roztocká
+Roztocká
+Roztocká
+Roztylské náměstí
+Roztylské náměstí
+Mikulova
+Mikulova
+Maškův mlýn
+Maškův mlýn
+Mokrá
+Mokrá
+Křeslice
+Křeslice
+Reinerova
+Reinerova
+Miškovice
+Miškovice
+Prvomájová
+Prvomájová
+Přední Kopanina
+Přední Kopanina
+Přední Kopanina
+Přední Kopanina
+Obora Hvězda
+Obora Hvězda
+Sibiřské náměstí
+Sibiřské náměstí
+Sídliště Bohnice
+Sídliště Bohnice
+Sídliště Bohnice
+Poliklinika Mazurská
+Poliklinika Mazurská
+Poliklinika Mazurská
+Ronešova
+Pod Ryšánkou
+Pod Šafránkou
+Pod Šafránkou
+Strossmayerovo náměstí
+Strossmayerovo náměstí
+Strossmayerovo náměstí
+Březiněveská
+Březiněveská
+Březiněveská
+Sudějovická
+Sudějovická
+Smaragdová
+Internacionální
+Internacionální
+Sulická
+Přístaviště
+Přístaviště
+Miškovice
+Děkanka
+Děkanka
+Sídliště Prosek
+Sídliště Prosek
+Sídliště Radotín
+Divadlo pod Palmovkou
+Koleje Větrník
+Koloděje
+Koloděje
+Kolodějská obora
+Kolodějská obora
+Kolonie
+Kolonie
+Škola Kolovraty
+Škola Kolovraty
+Zdiměřická
+Do Lipan
+Do Lipan
+Huntířovská
+Huntířovská
+Vyšehrad
+Vyšehrad
+Vyšehrad
+Vyšehrad
+Palmovka
+Palmovka
+Palmovka
+Palmovka
+Palmovka
+Palmovka
+Palmovka
+Palmovka
+Palmovka
+Palmovka
+Palmovka
+Ronešova
+Sídliště Ďáblice
+Sídliště Ďáblice
+Sídliště Ďáblice
+Sídliště Ďáblice
+Sídliště Hloubětín
+Sídliště Hloubětín
+Myslíkova
+Myslíkova
+Na Blanici
+Přívorská
+Přívorská
+Sídliště Písnice
+Sídliště Písnice
+Dolní Šárka
+Dolní Šárka
+Krakov
+Krakov
+Naskové
+Naskové
+Mezi Hřbitovy
+Mezi Hřbitovy
+Měděnecká
+Měchenická
+Měchenická
+Michelská
+Michelská
+Michelská
+Zdiměřická
+Komárovská
+Komárovská
+Nákladové nádraží Žižkov
+Roztyly
+Roztyly
+Roztyly
+Roztyly
+Nové Butovice
+Nové Butovice
+Nové Butovice
+Nové Butovice
+Nové Butovice
+Nové Butovice
+Nové Butovice
+Prosek
+Prosek
+Prosek
+Prosek
+Prosek
+Prosek
+Prosek
+Strossmayerovo náměstí
+Palmovka
+Palmovka
+Palmovka
+Sídliště Lhotka
+Na Košíku
+Na Pramenech
+Na Pramenech
+Na Lysinách
+Na Lysinách
+Na Míčánkách
+Na Míčánkách
+Na Mlýnku
+Na Mlýnku
+Pod Dálnicí
+Pod Dálnicí
+Na Padesátníku
+Na Padesátníku
+Nad Pahorkem
+Na Palouku
+Na Palouku
+Na Parcelách
+Pod Vyhlídkou
+Pod Zatáčkou
+Pod Zatáčkou
+Podbělohorská
+Podbělohorská
+Podbělohorská
+Podbělohorská
+Poštovka
+Poštovka
+Podhajská pole
+Podhajská pole
+Podhoří
+Ke Xaverovu
+Malešická
+Malešická
+Malešická továrna
+Safírová
+Santoška
+Santoška
+Sdružení
+Sdružení
+Selská
+Selská
+Selská
+Selská
+Serpentina
+Severozápadní
+Severozápadní
+Schodová
+Schodová
+Krematorium Motol
+Palmovka
+Palmovka
+Palmovka
+Palmovka
+Palmovka
+Palouček
+Palouček
+Pohořelec
+Pohořelec
+Výstaviště Holešovice
+Výstaviště Holešovice
+Výstaviště Holešovice
+Výstaviště Holešovice
+Pavlíkova
+Obora Hvězda
+Malovanka
+Malovanka
+Malovanka
+Královice
+Krčská
+Krčská
+Krčský hřbitov
+Krčský hřbitov
+Krematorium Strašnice
+Poliklinika Malešice
+Nádraží Holešovice
+Farkáň
+Farkáň
+Filmové ateliéry
+Slavínského
+Slavínského
+Krahulčí
+Hutmanka
+Hybšmanka
+Hybšmanka
+Hydrologický ústav
+Hydrologický ústav
+Sídliště Zličín
+Sídliště Zličín
+Vinořský hřbitov
+Zentiva
+Zentiva
+Dejvická
+Dejvická
+Vítězné náměstí
+Vítězné náměstí
+Dejvická
+Dejvická
+Dejvická
+Dejvická
+Dejvická
+Dejvická
+Dejvická
+Vítězné náměstí
+Vítězné náměstí
+Dejvická
+Vítězné náměstí
+Vítězné náměstí
+Kobylisy
+Kobylisy
+Kobylisy
+Kobylisy
+Kobylisy
+Kobylisy
+Kobylisy
+Kobylisy
+Kobylisy
+Kobylisy
+Kobylisy
+Kobylisy
+Kobylisy
+Střelničná
+Střelničná
+Sklářská
+Sklářská
+Poliklinika Malešice
+Plynárna Michle
+Plynárna Michle
+Plynárna Satalice
+Plynárna Satalice
+Radiová
+Radiová
+Plzeňka
+Plzeňka
+Dlouhá míle
+Dlouhá míle
+Počeradská
+Počeradská
+Multiaréna Praha
+Multiaréna Praha
+Lomnická
+Lomnická
+Lotyšská
+Vinořský hřbitov
+Vinořský hřbitov
+Vinořský hřbitov
+Chmelnice
+Chmelnice
+Chodovec
+Chodovec
+Hlavní nádraží
+Hlavní nádraží
+Hlavní nádraží
+Hlavní nádraží
+Břevnovská
+Bruselská
+Bruselská
+Brusnice
+Brusnice
+Ke Stírce
+Filmové ateliéry
+Filmové ateliéry
+Flora
+Flora
+Flora
+Flora
+Flora
+Flora
+Frančíkova
+Frančíkova
+Franty Kocourka
+Náměstí U Lva
+Náměstí U Lva
+Fruta
+Fruta
+Filosofská
+Filosofská
+Fryčovická
+Sklářská
+Ďáblice
+Ďáblice
+Ďáblice
+Kostrounek
+Kostrounek
+Kotlářka
+Kotlářka
+Kotlářka
+Kotlářka
+Kotlářka
+Kotlářka
+Kotlářka
+Kotlářka
+Kovárna
+Kovárna
+Liběchovská
+Liběchovská
+Kovošrot
+Lotyšská
+Terminál 2
+Terminál 2
+Terminál 2
+Ruzyňská
+Ruzyňská
+Ruzyňská škola
+Ruzyňská škola
+Ryšánka
+Ryšánka
+Ryšánka
+Řepčická
+Pobřežní cesta
+Pobřežní cesta
+Pobřežní cesta
+Pobřežní cesta
+Nádraží Modřany
+Nádraží Modřany
+Blatiny
+Blatiny
+Blatiny
+Blatiny
+Argentinská
+Argentinská
+Argentinská
+Jiráskovo náměstí
+Jiráskovo náměstí
+Jiráskovo náměstí
+Jiráskovo náměstí
+Jiřího z Poděbrad
+Jiřího z Poděbrad
+Nádraží Veleslavín
+Nádraží Veleslavín
+Fryčovická
+Na Petynce
+Chodovská
+Chodovská
+Chodovská
+Chodovská
+Škola Radlice
+Škola Radlice
+Škola Radlice
+Škola Radlice
+Točná
+Točná
+Cholupický vrch
+Cholupický vrch
+Chotkovy sady
+Chotkovy sady
+Chvaly
+Kovošrot
+Králova
+Králova
+Královice
+Spolská
+Spolská
+V Kratinách
+V Kratinách
+Spořilov
+Spořilov
+Spořilov
+Spořilov
+Spořilov
+Spořilov
+Spořilov
+Terminál 3
+Terminál 3
+Terminál 3
+Stadion Strahov
+Nádraží Modřany
+Nádraží Modřany
+Nádraží Veleslavín
+Nádraží Veleslavín
+Nádraží Veleslavín
+Nádraží Veleslavín
+Nádraží Veleslavín
+Nádraží Veleslavín
+Nádraží Vršovice
+Nádraží Vršovice
+Nádraží Vršovice
+Nádraží Vršovice
+Černý kůň
+Černý kůň
+Krahulčí
+Nábřeží Kapitána Jaroše
+Nad Habrovkou
+Chvaly
+Kavkazská
+Kavkazská
+Geologická
+Geologická
+Geologická
+Budějovická
+Budějovická
+Budějovická
+Poliklinika Budějovická
+Poliklinika Budějovická
+Budějovická
+Budějovická
+Budějovická
+Poliklinika Budějovická
+Poliklinika Budějovická
+Budějovická
+Stadion Strahov
+Stadion Strahov
+Stadion Strahov
+Staré náměstí
+Drnovská
+Staré náměstí
+Skloněná
+Skloněná
+Slatinová
+Slatinová
+Slavia
+Slavia
+Slavia
+Slavia
+Olšanské náměstí
+Olšanské náměstí
+Opálová
+Orionka
+Motol
+Trojská
+Trutnovská
+Trutnovská
+Třebešín
+Třebešín
+Třebonice
+Třebonice
+Třeboradice
+Třeboradice
+Nad Habrovkou
+Nad Havlem
+Nad Havlem
+Nad Jetelkou
+Libeňský zámek
+Libeňský zámek
+Hostivařská
+Hostivařská
+Hostivařská
+Hostivařská
+Kubánské náměstí
+Kubánské náměstí
+Kubánské náměstí
+Vysočanská
+Vysočanská
+Hlavní nádraží
+Hlavní nádraží
+Budějovická
+Budějovická
+Budějovická
+K Letišti
+Dejvická
+Dejvická
+Lešanská
+Praha-Vršovice
+Praha-Vršovice
+Poliklinika Vysočany
+Poliklinika Vysočany
+Poliklinika Vysočany
+Poliklinika Vysočany
+Nádraží Zbraslav
+Nádraží Zbraslav
+Orionka
+Orionka
+Orionka
+Ořechovka
+Ořechovka
+Strnady
+Strnady
+Ortenovo náměstí
+Ortenovo náměstí
+Ostrčilovo náměstí
+Krematorium Strašnice
+Krocínka
+Krocínka
+Krymská
+Krymská
+Křížová
+Křížová
+Křížová
+Křížová
+Kublov
+Kublov
+Ovčí hájek
+Ovčí hájek
+Kuchyňka
+Hlavní nádraží
+Praha hl.n.
+Praha hl.n.
+Hlohová
+Hlohová
+Starý Hloubětín
+Starý Hloubětín
+Starý Hloubětín
+Starý Hloubětín
+Mladějovská
+Mladějovská
+Nádraží Hlubočepy
+Nádraží Hlubočepy
+Newtonova
+Nová kolonie
+Nová kolonie
+Jiřího z Poděbrad
+Lidečská
+Lidečská
+Třebenická
+Třebenická
+Třebenická
+Třebenická
+Nádraží Podbaba
+Nádraží Podbaba
+Nádraží Podbaba
+Nádraží Vysočany
+Vysočanská
+Vysočanská
+Vysočanská
+Vysočanská
+Nádraží Vysočany
+Vysočanská
+Vysočanská
+Uhříněveský hřbitov
+Uhříněveský hřbitov
+Malá Chuchle
+Archeologická
+Archeologická
+Podhoří
+Podolská vodárna
+Podolská vodárna
+Podolská vodárna
+Podolská vodárna
+Průmyslová
+Průmyslová
+Vršovické náměstí
+Vršovické náměstí
+Most Závodu míru
+Most Závodu míru
+Motol
+Motol
+Motol
+Jiřího z Poděbrad
+Jižní Město
+Jižní Město
+Nad Závistí
+Jordánská
+Juliska
+Juliska
+K Cikánce
+K Cikánce
+K Dubečku
+K Dubečku
+K Holyni
+K Holyni
+K Letišti
+Bazar
+Belárie
+Belárie
+Královský letohrádek
+Mládí
+Mládí
+Náměstí Míru
+Náměstí Míru
+Náměstí Míru
+Náměstí Míru
+Náměstí Míru
+Hlubočepy
+Hlubočepy
+Hlubočepy
+Hlubočepy
+Hlubočepy
+Hlubočepy
+Holečkova
+Holečkova
+Holyně
+Nádraží Řeporyje
+Jitřní
+Jitřní
+Letiště
+Staroměstská
+Staroměstská
+Staroměstská
+Staroměstská
+Staroměstská
+Staroměstská
+Starý Spořilov
+Královský letohrádek
+Černý kůň
+Bořislavka
+Bořislavka
+Bořislavka
+Bořislavka
+Bořislavka
+Bořislavka
+Hostavice
+Hostavice
+Benice
+Benice
+Benice
+Hostivařské náměstí
+Hostivařské náměstí
+Hostýnská
+Hostýnská
+Čínská
+Holyně
+Weberova
+Weberova
+Horčičkova
+Horčičkova
+Horky
+Horky
+Horní cesta
+Boloňská
+Boloňská
+Boloňská
+K Obecním hájovnám
+K Obecním hájovnám
+K Pitkovičkám
+K Pitkovičkám
+Karlovy lázně
+Kuchyňka
+Nemocnice Motol
+Drnovská
+Starodejvická
+Starodejvická
+Starochuchelská
+Lotyšská
+Lotyšská
+Poliklinika Prosek
+Poliklinika Prosek
+Lysolaje
+Lysolaje
+Lysolaje
+Metodějova
+Metodějova
+Jana Masaryka
+Jana Masaryka
+Malá Chuchle
+Čínská
+Hradčanská
+Hradčanská
+K Teplárně
+K Teplárně
+K Tuchoměřicům
+K Tuchoměřicům
+K Vystrkovu
+K Vystrkovu
+K Žižkovu
+K Žižkovu
+Myšlínská
+Myšlínská
+Kablo
+Kablo
+Kablo
+Pod Děvínem
+Pod Děvínem
+Nákladové nádraží Žižkov
+Nákladové nádraží Žižkov
+Hradčanská
+Balkán
+Baně
+Baně
+Baterie
+Baterie
+Basilejské náměstí
+Basilejské náměstí
+Lehárova
+Lehárova
+Bazar
+Okrouhlická
+Olšanské hřbitovy
+Olšanské hřbitovy
+Olšanské hřbitovy
+Olšanské hřbitovy
+Olšanské náměstí
+Olšanské náměstí
+Nová Šárka
+Nová Šárka
+Nové dvory
+Nové dvory
+Nové dvory
+Nové Podolí
+Nové Podolí
+Nové Strašnice
+Nové Strašnice
+Novodvorská
+Novodvorská
+Novodvorská
+Novodvorská
+Novodvorská
+Hradčanská
+Hradčanská
+Hradčanská
+Hradčanská
+Hradčanská
+Hrnčířský hřbitov
+Hrnčířský hřbitov
+Hrnčířský hřbitov
+Toulcův dvůr
+Macharovo náměstí
+Macharovo náměstí
+Velká Chuchle
+Náměstí Republiky
+Novovysočanská
+Novovysočanská
+Nový Hloubětín
+Nový Hloubětín
+Krausova
+Krausova
+K Lipanům
+K Lipanům
+Benkova
+Benkova
+Na Beránku
+Na Beránku
+Bertramka
+Bertramka
+Betonárka
+Betonárka
+Boloňská
+Nový Hloubětín
+Sídliště Kobylisy
+Sídliště Kobylisy
+Florenc
+Florenc
+Florenc
+Florenc
+Sídliště Radotín
+Nevanova
+Nevanova
+Rembrandtova
+Rembrandtova
+Karlovo náměstí
+Novoměstská radnice
+Palackého náměstí
+Karlovo náměstí
+Karlovo náměstí
+Karlštejnská
+Karlštejnská
+Kateřinky
+Kateřinky
+Kavalírka
+Kavalírka
+Kavalírka
+Kavalírka
+Kavalírka
+Kazanka
+Kazanka
+Hlušičkova
+Hlušičkova
+Sídliště Jinonice
+Sídliště Jinonice
+Běchovice
+Běchovice
+Běchovice
+Nádraží Braník
+Divoká Šárka
+Divoká Šárka
+Dlouhá třída
+Dlouhá třída
+Dobeška
+Dobeška
+Dobratická
+Dobratická
+Dobročovická
+Dobročovická
+Nový Hloubětín
+Nový Prosek
+Nový Prosek
+Nový Slivenec
+Nový Slivenec
+Nový Střížkov
+Nový Střížkov
+Nuselská radnice
+Nuselská radnice
+Nuselské schody
+Nuselské schody
+K Třebonicům
+K Třebonicům
+V Podbabě
+V Podbabě
+V Podbabě
+Petřiny
+Běchovice
+Sídliště Spořilov
+Sídliště Spořilov
+Sídliště Zahradní Město
+Sídliště Zahradní Město
+Sídliště Zahradní Město
+Sídliště Zahradní Město
+Jesenická
+Hlušičkova
+Hlušičkova
+Husinecká
+Hutě
+Dobronická
+Dobronická
+Prunéřovská
+Prunéřovská
+Osecká
+Osecká
+Dolnoměcholupská
+Dolnoměcholupská
+U Střediska
+U Střediska
+Kbelská
+Kbelská
+Kbelská
+Kbelská
+Kbely
+Kbely
+Kbely
+Kbely
+Kbely
+Bělocerkevská
+Bělocerkevská
+Bělocerkevská
+Ratibořická
+Ratibořická
+Bílá Hora
+Bílá Hora
+Bílá Hora
+Bílá Hora
+Bílá Hora
+Bílá Hora
+Bílá Hora
+Bílá Hora
+Bílá labuť
+Bílá labuť
+Bílý Beránek
+Bílý Beránek
+Bílý Beránek
+Šeberov
+V Ladech
+V Ladech
+Bolevecká
+Bolevecká
+Šmukýřka
+Šmukýřka
+Šperlova
+Šperlova
+Hutě
+Hutmanka
+Hutmanka
+Hutmanka
+Nad Jetelkou
+Nad Klamovkou
+Nad Klamovkou
+Šafránecká
+Šafránecká
+Nad Parkánem
+Nad Parkánem
+Hasova
+Hasova
+Nad Trojou
+Nad Trojou
+Nádraží Běchovice
+Nádraží Běchovice
+Kbely
+Kbely
+Kbely
+Ke Kaménce
+Ke Kaménce
+Branické náměstí
+Branické náměstí
+Ke Schodům
+Ke Smrčině
+Ke Smrčině
+Ke Stadionu
+Ke Stadionu
+Bílý Beránek
+Jesenická
+Jesenická
+Sídliště Zbraslav
+Sídliště Zbraslav
+Na Padesátém
+Na Padesátém
+Na Padesátém
+Na Padesátém
+Bavorská
+Bavorská
+Bavorská
+Bavorská
+Konvářka
+Nad Džbánem
+Nad Džbánem
+Nad Džbánem
+Nad Džbánem
+Špitálka
+Špitálka
+Pražský hrad
+Na Hroudě
+Na Hroudě
+Písnice
+Písnice
+Ke Březině
+Ke Březině
+Plaňanská
+Plaňanská
+Satalice
+Satalice
+Satalice
+Satalice
+Odlehlá
+Odlehlá
+Zoologická zahrada
+Břeclavská
+Břeclavská
+Na Petynce
+Nádraží Braník
+Nádraží Braník
+Nádraží Braník
+Nádraží Braník
+Korandova
+Korandova
+Korek
+Korek
+Háje
+Háje
+Háje
+Háje
+Háje
+Háje
+Háje
+Háje
+Ďáblice
+Florenc
+Florenc
+Florenc
+Florenc
+Zoologická zahrada
+Trojská
+Trojská
+Labe
+Labe
+Rozýnova
+Rozýnova
+Ruská
+Ruská
+Terminál 1
+Terminál 1
+Terminál 1
+Terminál 1
+Terminál 1
+Nádraží Uhříněves
+Nádraží Uhříněves
+Nádraží Uhříněves
+Krystalová
+Krystalová
+Nádraží Holešovice
+Nádraží Holešovice
+Nádraží Holešovice
+Nádraží Holešovice
+Nádraží Holešovice
+Nádraží Holešovice
+Nádraží Holešovice
+Nádraží Holešovice
+Nádraží Braník
+Nádraží Braník
+Nádraží Braník
+Goetheho
+Za Avií
+Za Avií
+Nádraží Horní Počernice
+Nádraží Horní Počernice
+Nádraží Horní Počernice
+Geologická
+Geologická
+Dolní Počernice
+Laurová
+Florenc - B
+Florenc - B
+Florenc - C
+Florenc - C
+Solidarita
+Solidarita
+Podkovářská
+Podkovářská
+Sparta
+Sparta
+U Palaty
+U Palaty
+Spojovací
+Spojovací
+Spojovací
+Spojovací
+Královická
+Královická

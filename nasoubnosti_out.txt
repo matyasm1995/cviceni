@@ -1,0 +1,1 @@
+"('andel', 10)","('zvichov', 2)","('lihovat', 3)"
